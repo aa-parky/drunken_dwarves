@@ -2,21 +2,21 @@ from nltk.corpus import wordnet
 
 
 def get_related_adjectives_and_synonyms(word):
-    related_words = []
+    related_words = set()  # Use a set to automatically remove duplicates
 
     synsets = wordnet.synsets(word)
     for synset in synsets:
         for lemma in synset.lemmas():
             if lemma.synset().pos() == 'a':
-                related_words.append(lemma.name())
-            synonyms = [synonym.name() for synonym in lemma.synset().lemmas()]
-            related_words.extend(synonyms)
+                related_words.add((lemma.name(), 'adjective'))
+            synonyms = [(synonym.name(), synonym.synset().pos()) for synonym in lemma.synset().lemmas()]
+            related_words.update(synonyms)  # Use update() to add multiple elements to the set
 
     return related_words
 
 
-word = "rejoice"
-related_words_list = get_related_adjectives_and_synonyms(word)
+word = "triumph"
+related_words_set = get_related_adjectives_and_synonyms(word)
 
-formatted_output = "\n".join(related_words_list)
+formatted_output = "\n".join([f"{word} ({category})" for word, category in related_words_set])
 print(f"Related Adjectives and Synonyms for '{word}':\n{formatted_output}")
