@@ -28,7 +28,7 @@ def get_emotion_related_words(emotion):
     return emotion_related_words
 
 
-emotion = "joy"
+emotion = "rejoice"
 emotion_words = get_emotion_related_words(emotion)
 
 for word, lemma, category in emotion_words:
