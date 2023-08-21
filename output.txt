@@ -1,160 +1,149 @@
-Word: jealousy, Lemma: jealousy, Category: NN
-Word: envy, Lemma: envy, Category: NN
-Word: exasperation, Lemma: exasperation, Category: NN
-Word: exasperation, Lemma: exasperation, Category: NN
-Word: frustration, Lemma: frustration, Category: NN
-Word: irritation, Lemma: irritation, Category: NN
-Word: aggravation, Lemma: aggravation, Category: NN
-Word: agitation, Lemma: agitation, Category: NN
-Word: annoyance, Lemma: annoyance, Category: NN
-Word: grouchiness, Lemma: grouchiness, Category: NN
-Word: grumpiness, Lemma: grumpiness, Category: NN
-Word: irritation, Lemma: irritation, Category: NN
-Word: rage, Lemma: rage, Category: NN
-Word: anger, Lemma: anger, Category: NN
-Word: bitterness, Lemma: bitterness, Category: NN
-Word: dislike, Lemma: dislike, Category: NN
-Word: ferocity, Lemma: ferocity, Category: NN
-Word: fury, Lemma: fury, Category: NN
-Word: hate, Lemma: hate, Category: NN
-Word: hostility, Lemma: hostility, Category: NN
-Word: loathing, Lemma: loathing, Category: VBG
-Word: outrage, Lemma: outrage, Category: NN
-Word: rage, Lemma: rage, Category: NN
-Word: resentment, Lemma: resentment, Category: NN
-Word: scorn, Lemma: scorn, Category: NN
-Word: spite, Lemma: spite, Category: NN
-Word: vengefulness, Lemma: vengefulness, Category: NN
-Word: wrath, Lemma: wrath, Category: NN
-Word: torment, Lemma: torment, Category: NN
-Word: torment, Lemma: torment, Category: NN
-Word: fear, Lemma: fear, Category: NN
-Word: horror, Lemma: horror, Category: NN
-Word: alarm, Lemma: alarm, Category: NN
-Word: fear, Lemma: fear, Category: NN
-Word: fright, Lemma: fright, Category: NN
-Word: horror, Lemma: horror, Category: NN
-Word: hysteria, Lemma: hysteria, Category: NN
-Word: mortification, Lemma: mortification, Category: NN
-Word: panic, Lemma: panic, Category: NN
-Word: shock, Lemma: shock, Category: NN
-Word: terror, Lemma: terror, Category: NN
-Word: nervousness, Lemma: nervousness, Category: NN
-Word: anxiety, Lemma: anxiety, Category: NN
-Word: apprehension, Lemma: apprehension, Category: NN
-Word: distress, Lemma: distress, Category: NN
-Word: dread, Lemma: dread, Category: NN
-Word: nervousness, Lemma: nervousness, Category: NN
-Word: tenseness, Lemma: tenseness, Category: NN
-Word: uneasiness, Lemma: uneasiness, Category: NN
-Word: worry, Lemma: worry, Category: NN
-Word: joy, Lemma: joy, Category: NN
-Word: cheerfulness, Lemma: cheerfulness, Category: NN
-Word: amusement, Lemma: amusement, Category: NN
-Word: bliss, Lemma: bliss, Category: NN
-Word: cheerfulness, Lemma: cheerfulness, Category: NN
-Word: delight, Lemma: delight, Category: NN
-Word: ecstasy, Lemma: ecstasy, Category: NN
-Word: elation, Lemma: elation, Category: NN
-Word: enjoyment, Lemma: enjoyment, Category: NN
-Word: euphoria, Lemma: euphoria, Category: NN
-Word: gaiety, Lemma: gaiety, Category: NN
-Word: gladness, Lemma: gladness, Category: NN
-Word: glee, Lemma: glee, Category: NN
-Word: happiness, Lemma: happiness, Category: NN
-Word: jolliness, Lemma: jolliness, Category: NN
-Word: joviality, Lemma: joviality, Category: NN
-Word: joy, Lemma: joy, Category: NN
-Word: jubilation, Lemma: jubilation, Category: NN
-Word: satisfaction, Lemma: satisfaction, Category: NN
-Word: contentment, Lemma: contentment, Category: NN
-Word: contentment, Lemma: contentment, Category: NN
-Word: pleasure, Lemma: pleasure, Category: NN
-Word: enthrallment, Lemma: enthrallment, Category: NN
-Word: enthrallment, Lemma: enthrallment, Category: NN
-Word: rapture, Lemma: rapture, Category: NN
-Word: optimism, Lemma: optimism, Category: NN
-Word: eagerness, Lemma: eagerness, Category: NN
-Word: hope, Lemma: hope, Category: NN
-Word: optimism, Lemma: optimism, Category: NN
-Word: pride, Lemma: pride, Category: NN
-Word: pride, Lemma: pride, Category: NN
-Word: triumph, Lemma: triumph, Category: NN
-Word: relief, Lemma: relief, Category: NN
-Word: relief, Lemma: relief, Category: NN
-Word: zest, Lemma: zest, Category: NN
-Word: enthusiasm, Lemma: enthusiasm, Category: NN
-Word: excitement, Lemma: excitement, Category: NN
-Word: exhilaration, Lemma: exhilaration, Category: NN
-Word: thrill, Lemma: thrill, Category: NN
-Word: zeal, Lemma: zeal, Category: NN
-Word: zest, Lemma: zest, Category: NN
-Word: love, Lemma: love, Category: NN
-Word: affection, Lemma: affection, Category: NN
-Word: adoration, Lemma: adoration, Category: NN
-Word: affection, Lemma: affection, Category: NN
-Word: attraction, Lemma: attraction, Category: NN
-Word: caring, Lemma: caring, Category: VBG
-Word: compassion, Lemma: compassion, Category: NN
-Word: fondness, Lemma: fondness, Category: NN
-Word: liking, Lemma: liking, Category: VBG
-Word: love, Lemma: love, Category: NN
-Word: sentimentality, Lemma: sentimentality, Category: NN
-Word: tenderness, Lemma: tenderness, Category: NN
-Word: longing, Lemma: longing, Category: NN
-Word: longing, Lemma: longing, Category: NN
-Word: lust, Lemma: lust, Category: NN
-Word: arousal, Lemma: arousal, Category: NN
-Word: desire, Lemma: desire, Category: NN
-Word: infatuation, Lemma: infatuation, Category: NN
-Word: lust, Lemma: lust, Category: NN
-Word: passion, Lemma: passion, Category: NN
-Word: sadness, Lemma: sadness, Category: NN
-Word: disappointment, Lemma: disappointment, Category: NN
-Word: disappointment, Lemma: disappointment, Category: NN
-Word: dismay, Lemma: dismay, Category: NN
-Word: displeasure, Lemma: displeasure, Category: NN
-Word: neglect, Lemma: neglect, Category: NN
-Word: alienation, Lemma: alienation, Category: NN
-Word: defeat, Lemma: defeat, Category: NN
-Word: dejection, Lemma: dejection, Category: NN
-Word: embarrassment, Lemma: embarrassment, Category: NN
-Word: homesickness, Lemma: homesickness, Category: NN
-Word: humiliation, Lemma: humiliation, Category: NN
-Word: insecurity, Lemma: insecurity, Category: NN
-Word: isolation, Lemma: isolation, Category: NN
-Word: insult, Lemma: insult, Category: NN
-Word: loneliness, Lemma: loneliness, Category: NN
-Word: neglect, Lemma: neglect, Category: NN
-Word: rejection, Lemma: rejection, Category: NN
-Word: sadness, Lemma: sadness, Category: NN
-Word: depression, Lemma: depression, Category: NN
-Word: despair, Lemma: despair, Category: NN
-Word: gloom, Lemma: gloom, Category: NN
-Word: glumness, Lemma: glumness, Category: NN
-Word: grief, Lemma: grief, Category: NN
-Word: hopelessness, Lemma: hopelessness, Category: NN
-Word: melancholy, Lemma: melancholy, Category: NN
-Word: misery, Lemma: misery, Category: NN
-Word: sadness, Lemma: sadness, Category: NN
-Word: sorrow, Lemma: sorrow, Category: NN
-Word: unhappiness, Lemma: unhappiness, Category: NN
-Word: woe, Lemma: woe, Category: NN
-Word: shame, Lemma: shame, Category: NN
-Word: guilt, Lemma: guilt, Category: NN
-Word: regret, Lemma: regret, Category: NN
-Word: remorse, Lemma: remorse, Category: NN
-Word: shame, Lemma: shame, Category: NN
-Word: suffering, Lemma: suffering, Category: VBG
-Word: agony, Lemma: agony, Category: NN
-Word: anguish, Lemma: anguish, Category: NN
-Word: hurt, Lemma: hurt, Category: NN
-Word: suffering, Lemma: suffering, Category: VBG
-Word: sympathy, Lemma: sympathy, Category: NN
-Word: pity, Lemma: pity, Category: NN
-Word: sympathy, Lemma: sympathy, Category: NN
-Word: surprise, Lemma: surprise, Category: NN
-Word: surprise, Lemma: surprise, Category: NN
-Word: amazement, Lemma: amazement, Category: NN
-Word: astonishment, Lemma: astonishment, Category: NN
-Word: surprise, Lemma: surprise, Category: NN
+jealousy
+envy -> enviousness
+exasperation -> aggravation
+exasperation -> aggravation
+frustration -> defeat
+irritation -> annoyance
+aggravation -> exasperation
+agitation -> ferment
+annoyance -> irritation
+grumpiness -> crankiness
+irritation -> annoyance
+rage -> fury
+anger -> choler
+bitterness -> resentment
+dislike
+ferocity -> fierceness
+fury -> rage
+hate -> hatred
+hostility -> ill_will
+loathing
+outrage
+rage -> fury
+resentment -> bitterness
+scorn
+spite
+vengefulness -> vindictiveness
+wrath -> anger
+torment -> torture
+torment -> torture
+fear -> fearfulness
+horror -> repugnance
+alarm -> dismay
+fear -> fearfulness
+fright
+horror -> repugnance
+hysteria -> craze
+mortification -> chagrin
+panic -> terror
+shock -> daze
+terror -> panic
+nervousness
+anxiety -> anxiousness
+apprehension -> apprehensiveness
+distress -> hurt
+dread -> apprehension
+nervousness -> jitteriness
+tenseness -> tension
+uneasiness -> edginess
+worry
+joy -> joyousness
+cheerfulness -> cheer
+amusement -> entertainment
+bliss -> blissfulness
+cheerfulness -> cheer
+delight
+ecstasy
+elation -> high_spirits
+enjoyment -> delectation
+euphoria -> euphory
+gaiety -> merriment
+gladness -> gladfulness
+glee -> hilarity
+happiness -> felicity
+jolliness -> jollity
+joviality -> jollity
+joy -> joyousness
+jubilation -> exultation
+satisfaction -> gratification
+pleasure -> pleasance
+enthrallment
+enthrallment
+rapture -> ecstasy
+eagerness
+hope -> promise
+pride
+pride -> pridefulness
+triumph -> victory
+relief -> alleviation
+relief -> alleviation
+zest
+enthusiasm -> exuberance
+excitement -> exhilaration
+exhilaration -> excitement
+thrill -> bang
+zeal -> ardor
+zest
+love -> passion
+affection -> affectionateness
+adoration -> worship
+affection -> affectionateness
+attraction -> attractive_force
+caring
+compassion -> compassionateness
+fondness -> fancy
+liking
+love
+sentimentality -> mawkishness
+tenderness -> soreness
+longing
+longing
+lust
+arousal -> rousing
+infatuation -> puppy_love
+lust
+passion -> passionateness
+sadness -> unhappiness
+disappointment -> letdown
+disappointment -> letdown
+dismay -> discouragement
+neglect
+alienation -> disaffection
+defeat -> licking
+dejection -> fecal_matter
+embarrassment -> overplus
+humiliation -> chagrin
+isolation -> closing_off
+insult -> abuse
+loneliness -> solitariness
+neglect
+sadness -> unhappiness
+depression -> slump
+despair -> desperation
+gloom -> somberness
+glumness -> gloom
+grief -> heartache
+melancholy
+misery -> wretchedness
+sadness -> unhappiness
+sorrow -> regret
+unhappiness
+woe -> suffering
+shame -> disgrace
+guilt -> guiltiness
+regret
+remorse -> compunction
+shame -> disgrace
+suffering
+agony
+anguish
+hurt -> injury
+suffering
+sympathy
+pity -> commiseration
+sympathy -> understanding
+surprise -> surprisal
+surprise -> surprisal
+amazement -> astonishment
+astonishment -> amazement
+surprise -> surprisal
