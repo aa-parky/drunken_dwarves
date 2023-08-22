@@ -1,8 +1,8 @@
-Total First Names: 19990
-Total Repeated First Names: 8458
-Percentage of Repeated First Names: 42.31%
-Total Last Names: 19976
-Total Repeated Last Names: 13059
-Percentage of Repeated Last Names: 65.37%
+Total First Names: 29995
+Total Repeated First Names: 11175
+Percentage of Repeated First Names: 37.26%
+Total Last Names: 29979
+Total Repeated Last Names: 23555
+Percentage of Repeated Last Names: 78.57%
 
 Duplicate Lines:
