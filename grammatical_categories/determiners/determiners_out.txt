@@ -1,0 +1,7 @@
+a: 12
+the: 31
+an: 3
+The: 4
+no: 2
+each: 1
+those: 1
