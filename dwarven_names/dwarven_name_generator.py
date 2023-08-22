@@ -10,7 +10,7 @@ with open('all_JJ.txt', 'r') as file:
     adjective_list = [line.strip() for line in file]
 
 # Number of names to generate
-num_names = 10000
+num_names = 10
 
 generated_names = []  # To store the generated names
 
