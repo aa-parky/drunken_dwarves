@@ -1,0 +1,9 @@
+Total First Names: 10000
+Total Repeated First Names: 3862
+Percentage of Repeated First Names: 38.62%
+Total Last Names: 9997
+Total Repeated Last Names: 4442
+Percentage of Repeated Last Names: 44.43%
+
+Duplicate Lines:
+Duplicate Line: Un the Mutualist | Line Numbers: 5953, 9001
