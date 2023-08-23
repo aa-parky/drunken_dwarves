@@ -1,6 +1,11 @@
 import random
 import datetime
 
+def capitalize_after_hyphen(s):
+    words = s.split('-')
+    capitalized_words = [word.capitalize() for word in words]
+    return '-'.join(capitalized_words)
+
 # Read the list of syllables for first name from the syllables.txt file
 with open('de_male_final.txt', 'r') as file:
     syllable_list = [line.strip() for line in file]
@@ -35,6 +40,9 @@ for _ in range(num_names):
 
     # Randomly select an adjective and capitalize its first letter
     selected_adjective = random.choice(adjective_list).capitalize()
+
+    # Capitalize first letter of words after hyphens in the adjective
+    selected_adjective = capitalize_after_hyphen(selected_adjective)
 
     # Combine the generated names in the format "FirstName Surname of Adjective"
     final_name = f"{generated_first_name} {generated_surname} the {selected_adjective}"
