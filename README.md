@@ -20,8 +20,15 @@ afterwords and produced in a format that could be easily used by other parts of 
 I spent quite a bit of time thinking about how to create pronounceable (for the most part) names. Probably not my idea,
 but I did no research beforehand to see how others were making random name generators. My solution was to separate 
 words into their syllables then use rand to rearrange into a new word.
+
 ## Workflow
-tbd
+
+![Mensdrusfon Bendharsohn the Apocalyptical](Bendharsohn.png)
+> It's all about the syllables, lots of syllables. Mensdrusfon Bendharsohn the Apocalyptical
+
+First problem how best to come up with lots and lots of syllables. Syllables should be pronounceable as they 
+are the building blocks of words. Enter NLTK.
+
 ## Testing
 tbd
 ## Installing
