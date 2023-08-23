@@ -1,2 +1,2 @@
-# drunken_dwarves
-everyone needs mates.
+# Drunken Dwarves
+Everyone needs mates.
