@@ -31,6 +31,10 @@ for _ in range(num_names):
     selected_adjective = random.choice(adjective_list)
     capitalized_adjective = selected_adjective.capitalize()
 
+    # Capitalize the first letter of the adjective after splitting by hyphen
+    words_in_adjective = capitalized_adjective.split('-')
+    capitalized_adjective = '-'.join([word.capitalize() for word in words_in_adjective])
+
     # Combine the adjective and name in the format "Name the Adjective"
     final_name = f"{capitalized_name} the {capitalized_adjective}"
 
