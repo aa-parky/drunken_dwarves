@@ -23,7 +23,7 @@ words into their syllables then use rand to rearrange into a new word.
 
 ## Workflow
 
-![Mensdrusfon Bendharsohn the Apocalyptical](Bendharsohn.png)
+![Mensdrusfon Bendharsohn the Apocalyptical](Bendharsohn-2.gif)
 > It's all about the syllables, lots of syllables. Mensdrusfon Bendharsohn the Apocalyptical
 
 First problem how best to come up with lots and lots of syllables. Syllables should be pronounceable as they 
