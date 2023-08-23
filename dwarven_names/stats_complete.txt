@@ -1,0 +1,9 @@
+Total First Names: 30000
+Total Repeated First Names: 9870
+Percentage of Repeated First Names: 32.90%
+Total Last Names: 29992
+Total Repeated Last Names: 23572
+Percentage of Repeated Last Names: 78.59%
+
+Duplicate Lines:
+Duplicate Line: Seyn the Hempen | Line Numbers: 26884, 27188
