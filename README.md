@@ -13,6 +13,16 @@ This is all for a small homebrew game I am working on. Also, it has proven to be
 learn to hack with python and natural language processing. In particular using [NLTK](https://www.nltk.org/index.html)
 
 ## Thought Process
+I wanted my names to be as unique as possible. I wanted simple solutions to generate them on mass without having to do
+much preparation other than using some automation to clean, tidy data and then not have to  edit or manipulate 
+afterwords and produced in a format that could be easily used by other parts of the program.
+
+I spent quite a bit of time thinking about how to create pronounceable (for the most part) names. Probably not my idea,
+but I did no research beforehand to see how others were making random name generators. My solution was to separate 
+words into their syllables then use rand to rearrange into a new word.
 ## Workflow
+tbd
 ## Testing
+tbd
 ## Installing
+tbd
