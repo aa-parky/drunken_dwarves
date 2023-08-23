@@ -1,0 +1,4 @@
+Combinations of length 1: 1538
+Combinations of length 2: 1181953
+Combinations of length 3: 605159936
+Total combinations: 606343427

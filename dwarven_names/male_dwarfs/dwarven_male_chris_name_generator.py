@@ -2,7 +2,7 @@ import random
 import datetime
 
 # Read the list of syllables for first name from the syllables.txt file
-with open('de_fem_final.txt', 'r') as file:
+with open('de_male_final.txt', 'r') as file:
     syllable_list = [line.strip() for line in file]
 
 # Read the list of syllables for surname from the surname_syllables.txt file
