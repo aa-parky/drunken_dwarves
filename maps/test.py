@@ -23,9 +23,10 @@ grid_color = (200, 200, 200)
 # Font for displaying coordinates
 font = pygame.font.Font(None, 24)
 
-# Set initial scroll position
-scroll_x = 0
-scroll_y = 0
+# Set initial scroll position to center of the image
+scroll_x = (max_scrollable_area[0] - window_size[0]) // 2
+scroll_y = (max_scrollable_area[1] - window_size[1]) // 2
+
 
 # Scroll speed
 scroll_speed = 5
@@ -49,6 +50,9 @@ while running:
                 scroll_x -= scroll_speed
             elif event.key == pygame.K_RIGHT:
                 scroll_x += scroll_speed
+            elif event.key == pygame.K_0:  # "0" key to re-center
+                scroll_x = (max_scrollable_area[0] - window_size[0]) // 2
+                scroll_y = (max_scrollable_area[1] - window_size[1]) // 2
 
     # Apply bounds checking to scroll position
     if scroll_x < 0:
