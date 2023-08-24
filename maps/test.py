@@ -8,7 +8,7 @@ pygame.init()
 window_size = (800, 600)
 max_scrollable_area = (1456, 816)
 
-# Create the main surface
+# Create the main surfaces
 screen = pygame.display.set_mode(window_size)
 pygame.display.set_caption("Scrollable Window")
 
