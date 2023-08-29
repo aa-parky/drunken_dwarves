@@ -19,6 +19,9 @@ background_image = pygame.image.load("test.png").convert()
 white = (255, 255, 255)
 black = (0, 0, 0)
 grid_color = (200, 200, 200)
+grid_alpha = 50  # Opacity between 0 (transparent) and 255 (opaque)
+grid_surface = pygame.Surface(window_size, pygame.SRCALPHA)  # Create a transparent surface for the grid
+
 
 # Font for displaying coordinates
 font = pygame.font.Font(None, 24)
@@ -78,9 +81,14 @@ while running:
     visible_area = pygame.Rect(scroll_x, scroll_y, window_size[0], window_size[1])
 
     # Draw grid
-    for x in range(0, max_scrollable_area[0], grid_size):
-        for y in range(0, max_scrollable_area[1], grid_size):
-            pygame.draw.rect(screen, grid_color, (x - scroll_x, y - scroll_y, grid_size, grid_size), 1)
+    grid_surface.fill((0, 0, 0, 0))  # Clear the grid surface with transparent color
+
+    for x in range(0, window_size[0], grid_size):
+        for y in range(0, window_size[1], grid_size):
+            pygame.draw.rect(grid_surface, grid_color + (grid_alpha,),
+                             (x, y, grid_size, grid_size), 1)
+
+    screen.blit(grid_surface, (0, 0))  # Blit the grid surface onto the main screen
 
     # Display mouse coordinates
     mouse_coords_text = font.render(f"Mouse: ({mouse_x}, {mouse_y})", True, black)
